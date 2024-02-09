@@ -129,27 +129,27 @@ def resturantmenuview():
          print("\n"*2)
          ch=int(input("ENTER YOUR CHOICE"))
          if ch==1:
-             print("YOU HAVE SELECTED 500\- PLATE")
+             print("YOU HAVE SELECTED 500\\- PLATE")
              n=int(input("AMOUNT:- "))
              print("Your total is",500*n)
              print("THANKS!")
          if ch==2:
-             print("YOU HAVE SELECTED 800\- PLATE")
+             print("YOU HAVE SELECTED 800\\- PLATE")
              n=int(input("AMOUNT:- "))
              print("Your total is",800*n) 
              print("THANKS!")
          if ch==3:
-             print("YOU HAVE SELECTED 1000\- PLATE")
+             print("YOU HAVE SELECTED 1000\\- PLATE")
              n=int(input("AMOUNT:- "))
              print("Your total is",1000*n) 
              print("THANKS!")
          if ch==4:
-             print("YOU HAVE SELECTED 1200\- PLATE")
+             print("YOU HAVE SELECTED 1200\\- PLATE")
              n=int(input("AMOUNT:- "))
              print("Your total is",1200*n) 
              print("THANKS!")
          if ch==5:
-             print("YOU HAVE SELECTED 1500\- PLATE")
+             print("YOU HAVE SELECTED 1500\\- PLATE")
              n=int(input("AMOUNT:- "))
              print("Your total is",1500*n) 
              print("THANKS!")
